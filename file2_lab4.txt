@@ -1,0 +1,9 @@
+No, there is no general way to guess the encoding of any given "plain text" file.
+Yes, this means that you have to know the encoding of the file you want to read.
+﻿Yes, you need to specify the encoding of the file you want to read.
+
+
+
+
+
+
