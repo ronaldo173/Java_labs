@@ -72,11 +72,11 @@ public class Lab4 {
 			// записываем в 3 файл исходную и преобразованную информацию
 			for (String string : listOfStrings) {
 				writer3File.write(string);
-				writer2File.write(System.getProperty("line.separator"));
+				writer3File.write(System.getProperty("line.separator"));
 			}
 			for (int i = listOfStrings.size() - 1; i >= 0; i--) {
-				writer2File.write(System.getProperty("line.separator"));
 				writer3File.write(listOfStrings.get(i));
+				writer3File.write(System.getProperty("line.separator"));
 			}
 		}
 
