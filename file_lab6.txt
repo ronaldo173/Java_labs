@@ -1,2 +1,2 @@
-Arguments x,y,z: [1, 2, 44]
-Result: 1.7592825219252046
+Arguments x,y,z: [4, 5, 6]
+Result: 64.36807632825219
